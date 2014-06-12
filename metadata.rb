@@ -6,7 +6,7 @@ description      'Installs FUSE, Filesystem in Userspace.'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 version          '1.0.0'
 
-# Cookbook dependancies
+# Cookbook Dependancies
 %w(
   apt
   build-essential
@@ -14,7 +14,7 @@ version          '1.0.0'
   depends cookbooks
 end
 
-# Operating systems supported
+# Supported Operating Systems
 %w(
   debian
   ubuntu
