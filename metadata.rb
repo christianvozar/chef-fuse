@@ -1,4 +1,4 @@
-name             'chef-fuse'
+name             'fuse'
 maintainer       'Rogue Ethic, LLC.'
 maintainer_email 'support@rogueethic.com'
 license          'Apache v2.0'
