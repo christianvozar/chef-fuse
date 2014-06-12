@@ -1,5 +1,5 @@
 # Author:: Christian Vozar <christian@rogueethic.com>
-# Cookbook Name:: chef-fuse
+# Cookbook Name:: fuse
 # Recipe:: default
 #
 # Copyright 2014, Rogue Ethic, LLC.
